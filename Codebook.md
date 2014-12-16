@@ -4,6 +4,7 @@ Variables in the Dataset
 
   subject                  : int 
                              Uniquely identifies the subject (1 to 30)
+  
   activity                 : Factor with 6 levels
                              Specifies activity labels
   
