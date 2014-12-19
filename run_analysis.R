@@ -7,6 +7,7 @@
 # Creates a tidy dataset that summarises the means of all the measurements for each subject and each activity
 
 # Load required libraries
+library(data.table)
 library(tidyr)
 library(dplyr)
 
